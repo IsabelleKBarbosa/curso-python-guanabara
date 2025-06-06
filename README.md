@@ -13,4 +13,5 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 
 
 ### Lista de Exercícios Resolvidos
+* [Desafio 01 e 02](Mundo_01/Aulas_01_a_05_Primeiros_Passos/Desafio_01_02.py)
 
