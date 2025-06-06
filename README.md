@@ -9,6 +9,7 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 
 ### Anotações Relevantes
 
+* Princípios de **Boas Práticas** em Python: [Zen of Python](Mundo_01/Zen_of_Python.md)
 * [Aula 01 a 05 - Primeiros Passos](Mundo_01/Aulas_01_a_05_Primeiros_Passos/Anotações_Aula_01_05.md)
 
 
