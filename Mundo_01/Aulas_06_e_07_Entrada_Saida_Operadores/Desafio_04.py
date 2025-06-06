@@ -1,0 +1,12 @@
+#Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+print ()
+print ('## ATIVIDADE 04 ##' + '\n')
+word = input ('Digite algo para ser avaliado: ')
+print ('O tipo primitivo é:', type(word), '\n')
+print ('Análise: ')
+print ('É uma letra?', word.isalpha())
+print ('É alphanumeric?', word.isalnum())
+print ('Está minúsculo?', word.islower())
+print ('Está maiúsculo?', word.isupper())
+print ('Está capitalizada?', word.istitle())
+print ('Possui apenas espaços?', word.isspace())
