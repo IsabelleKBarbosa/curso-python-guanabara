@@ -1,0 +1,10 @@
+#Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar. US$ 1 = R$3,27
+print ('_____________________________________________________________________')
+print ()
+print ('## ATIVIDADE PRÁTICA - 10 ##')
+print ()
+reais = float(input('Digite o valor disponível na carteira: R$ '))
+money = (reais / 3.27)
+print (f'Valor em dólares: US$ {money:.2f}')
+print()
+print (f'R$ {reais} == US$ {money:.2f} ')
