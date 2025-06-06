@@ -54,15 +54,15 @@ São símbolos usados para realizar **operações matemáticas** com variáveis 
 a = 10
 b = 3
 
-print(a + b)   # 13
-print(a - b)   # 7
-print(a * b)   # 30
-print(a / b)   # 3.333...
-print(a ** b)  # 1000 (10³)
-print(a // b)  # 3
-print(a % b)   # 1
-
+print(a + b)  # 13
+print(a - b)  # 7
+print(a * b)  # 30
+print(a / b)  # 3.333...
+print(a ** b) # 1000 (10³)
+print(a // b) # 3
+print(a % b)  # 1
 ```
+
 Obs: A raiz quadrada de um número pode ser calculada usando o operador de potência com o expoente 1/2. 
 Isso funciona porque elevar um número a ½ é matematicamente o mesmo que extrair sua raiz quadrada. A raiz cúbica segue o mesmo raciocínio.
 
