@@ -25,4 +25,5 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 * Desafio 08 - [Conversor de Medidas](Mundo_01/Aulas_06_e_07_Entrada_Saida_Operadores/Desafio_08.py)
 * Desafio 09 - [Tabuada](Mundo_01/Aulas_06_e_07_Entrada_Saida_Operadores/Desafio_09.py)
 * Desafio 10 - [Conversor de Moedas](Mundo_01/Aulas_06_e_07_Entrada_Saida_Operadores/Desafio_10.py)
+* Desafio 11 - [Pintando Parede](Mundo_01/Aulas_06_e_07_Entrada_Saida_Operadores/Desafio_11.py)
 
