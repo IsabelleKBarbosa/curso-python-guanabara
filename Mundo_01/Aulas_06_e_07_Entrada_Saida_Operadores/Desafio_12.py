@@ -1,0 +1,11 @@
+#Faça um algoritmo que leia o preço de um produto e mostre seu novo preço com 5% de desconto.
+print ('_____________________________________________________________________')
+print ()
+print ('## ATIVIDADE PRÁTICA - 12 ##')
+print ()
+preco = float (input('Forneça o preço do produto: R$ '))
+print()
+novopreco = preco - (0.05 * preco)
+desc = (0.05 * preco)
+print (f'- O preço com 5% de desconto é: R${novopreco:.2f}')
+print (f'- O desconto é de R${desc:.2f}')
