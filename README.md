@@ -27,4 +27,7 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 * Desafio 10 - [Conversor de Moedas](Mundo_01/Aulas_06_e_07_Entrada_Saida_Operadores/Desafio_10.py)
 * Desafio 11 - [Pintando Parede](Mundo_01/Aulas_06_e_07_Entrada_Saida_Operadores/Desafio_11.py)
 * Desafio 12 - [Calculando Descontos](Mundo_01/Aulas_06_e_07_Entrada_Saida_Operadores/Desafio_12.py)
+* Desafio 13 - [Reajuste Salarial](Mundo_01/Aulas_06_e_07_Entrada_Saida_Operadores/Desafio_13.py)
+* Desafio 14 - [Conversor de Temperaturas](Mundo_01/Aulas_06_e_07_Entrada_Saida_Operadores/Desafio_14.py)
+* Desafio 15 - [Aluguel de Carros](Mundo_01/Aulas_06_e_07_Entrada_Saida_Operadores/Desafio_15.py)
 
