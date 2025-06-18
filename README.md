@@ -30,4 +30,9 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 * Desafio 13 - [Reajuste Salarial](Mundo_01/Aulas_06_e_07_Entrada_Saida_Operadores/Desafio_13.py)
 * Desafio 14 - [Conversor de Temperaturas](Mundo_01/Aulas_06_e_07_Entrada_Saida_Operadores/Desafio_14.py)
 * Desafio 15 - [Aluguel de Carros](Mundo_01/Aulas_06_e_07_Entrada_Saida_Operadores/Desafio_15.py)
+* Desafio 16 - [Quebrando um Número](Mundo_01/Aula_08_Utilizando_Modulos/Desafio_16.py)
+* Desafio 17 - [Catetos e Hipotenusa](Mundo_01/Aula_08_Utilizando_Modulos/Desafio_17.py)
+* Desafio 18 - [Seno, Cosseno e Tangente](Mundo_01/Aula_08_Utilizando_Modulos/Desafio_18.py)
+* Desafio 19 - [Sorteando um item na lista](Mundo_01/Aula_08_Utilizando_Modulos/Desafio_19.py)
+* Desafio 20 - [Sorteando uma ordem na lista](Mundo_01/Aula_08_Utilizando_Modulos/Desafio_20.py)
 
