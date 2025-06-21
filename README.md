@@ -35,4 +35,5 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 * Desafio 18 - [Seno, Cosseno e Tangente](Mundo_01/Aula_08_Utilizando_Modulos/Desafio_18.py)
 * Desafio 19 - [Sorteando um item na lista](Mundo_01/Aula_08_Utilizando_Modulos/Desafio_19.py)
 * Desafio 20 - [Sorteando uma ordem na lista](Mundo_01/Aula_08_Utilizando_Modulos/Desafio_20.py)
+* Desafio 21 - [Sorteio Mega-Sena](Mundo_01/Aula_08_Utilizando_Modulos/Desafio_21.py)
 
