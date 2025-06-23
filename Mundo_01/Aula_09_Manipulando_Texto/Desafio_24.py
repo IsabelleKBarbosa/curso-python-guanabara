@@ -1,0 +1,11 @@
+#Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO".
+print ('_____________________________________________________________________')
+print ()
+print ('## ATIVIDADE PRÁTICA - 24 ##')
+print ()
+cidade = str (input ('Digite uma cidade para verificação: ')).lower().strip()
+print ()
+print ('* Faz parte do conjunto de cidades que possui "Santo" no nome?')
+print (f'- Resposta: {'santo' in cidade.split()} \n')
+print (f'* O nome começa com o termo "Santo"?')
+print (f'- Resposta: {'santo' in cidade.split()[0]}')
