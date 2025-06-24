@@ -36,4 +36,8 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 * Desafio 19 - [Sorteando um item na lista](Mundo_01/Aula_08_Utilizando_Modulos/Desafio_19.py)
 * Desafio 20 - [Sorteando uma ordem na lista](Mundo_01/Aula_08_Utilizando_Modulos/Desafio_20.py)
 * Desafio 21 - [Sorteio Mega-Sena](Mundo_01/Aula_08_Utilizando_Modulos/Desafio_21.py)
+* Desafio 22 - [Analisador de Texto](Mundo_01/Aula_09_Manipulando_Texto/Desafio_22.py)
+* Desafio 23 - [Separando Dígitos de um Número](Mundo_01/Aula_09_Manipulando_Texto/Desafio_23.py)
+* Desafio 24 - [Verificando Primeiras Letras de um Texto](Mundo_01/Aula_09_Manipulando_Texto/Desafio_24.py)
+* Desafio 25 - [Procurando uma String dentro de outra](Mundo_01/Aula_09_Manipulando_Texto/Desafio_25.py)
 
