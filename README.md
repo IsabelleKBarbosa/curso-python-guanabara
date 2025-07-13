@@ -16,6 +16,12 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 * [Aula 09 - Manipulando Texto e Cadeia de Texto](Mundo_01/Aula_09_Manipulando_Texto/Anotacoes_Aula_09.md) 
 * Aula 10 - Condições em Python, parte 01 [Em Desenvolvimento]
 
+## 📁 Mundo 2 - Estruturas de Controle
+### Anotações Relevantes
+* 
+
+
+---
 
 ### Lista de Exercícios Resolvidos
 * Desafio 01 e 02 - [Respondendo ao Usuário](Mundo_01/Aulas_01_a_05_Primeiros_Passos/Desafio_01_02.py)
