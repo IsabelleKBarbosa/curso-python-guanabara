@@ -13,7 +13,8 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 * [Aula 01 a 05 - Primeiros Passos](Mundo_01/Aulas_01_a_05_Primeiros_Passos/Anotações_Aula_01_05.md)
 * [Aula 06 e 07 - Entrada, Saída e Operadores Aritméticos](Mundo_01/Aulas_06_e_07_Entrada_Saida_Operadores/Anotações_Aulas_06_07.md)
 * [Aula 08 - Utilizando Módulos](Mundo_01/Aula_08_Utilizando_Modulos/Anotacoes_Aula_08.md)
-* Aula 09 - [Em Desenvolvimento]
+* Aula 09 - [Em Desenvolvimento
+* AUla 10 - [Em Desenvolvimento]
 
 
 ### Lista de Exercícios Resolvidos
@@ -41,4 +42,7 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 * Desafio 23 - [Separando Dígitos de um Número](Mundo_01/Aula_09_Manipulando_Texto/Desafio_23.py)
 * Desafio 24 - [Verificando Primeiras Letras de um Texto](Mundo_01/Aula_09_Manipulando_Texto/Desafio_24.py)
 * Desafio 25 - [Procurando uma String dentro de outra](Mundo_01/Aula_09_Manipulando_Texto/Desafio_25.py)
+* Desafio 26 - [Primeira e Última ocorrência de uma string](Mundo_01/Aula_09_Manipulando_Texto/Desafio_26.py)
+* Desafio 27 - [Primeiro e Último nome de uma pessoa](Mundo_01/Aula_09_Manipulando_Texto/Desafio_27.py)
+
 
