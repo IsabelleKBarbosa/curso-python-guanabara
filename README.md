@@ -13,7 +13,7 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 * [Aula 01 a 05 - Primeiros Passos](Mundo_01/Aulas_01_a_05_Primeiros_Passos/Anotações_Aula_01_05.md)
 * [Aula 06 e 07 - Entrada, Saída e Operadores Aritméticos](Mundo_01/Aulas_06_e_07_Entrada_Saida_Operadores/Anotações_Aulas_06_07.md)
 * [Aula 08 - Utilizando Módulos](Mundo_01/Aula_08_Utilizando_Modulos/Anotacoes_Aula_08.md)
-* Aula 09 - [Em Desenvolvimento
+* [Aula 09 - Manipulando Texto e Cadeia de Texto](Mundo_01/Aula_09_Manipulando_Texto/Anotacoes_Aula_09.md) 
 * AUla 10 - [Em Desenvolvimento]
 
 
