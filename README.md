@@ -44,5 +44,13 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 * Desafio 25 - [Procurando uma String dentro de outra](Mundo_01/Aula_09_Manipulando_Texto/Desafio_25.py)
 * Desafio 26 - [Primeira e Última ocorrência de uma string](Mundo_01/Aula_09_Manipulando_Texto/Desafio_26.py)
 * Desafio 27 - [Primeiro e Último nome de uma pessoa](Mundo_01/Aula_09_Manipulando_Texto/Desafio_27.py)
+* Desafio 28 - [Jogo da Adivinhação v.1.0](Mundo_01/Aula_10_Condicoes_Parte1/Desafio_28.py)
+* Desafio 29 - [Radar Eletrônico](Mundo_01/Aula_10_Condicoes_Parte1/Desafio_29.py)
+* Desafio 30 - [Par ou Ímpar?](Mundo_01/Aula_10_Condicoes_Parte1/Desafio_30.py)
+* Desafio 31 - [Custo da Viagem](Mundo_01/Aula_10_Condicoes_Parte1/Desafio_31.py)
+* Desafio 32 - [Ano Bissexto](Mundo_01/Aula_10_Condicoes_Parte1/Desafio_32.py)
+* Desafio 33 - [Maior e Menor Valores](Mundo_01/Aula_10_Condicoes_Parte1/Desafio_33.py)
+* Desafio 34 - [Aumentos Múltiplos](Mundo_01/Aula_10_Condicoes_Parte1/Desafio_34.py)
+* Desafio 35 - [Analisando Triângulos v.1.0](Mundo_01/Aula_10_Condicoes_Parte1/Desafio_35.py)
 
 
