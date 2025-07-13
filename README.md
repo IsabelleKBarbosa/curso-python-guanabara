@@ -5,7 +5,7 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 
 ---
 
-## 📁 Mundo 1
+## 📁 Mundo 1 - Fundamentos
 
 ### Anotações Relevantes
 
