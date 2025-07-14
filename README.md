@@ -18,7 +18,7 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 
 ## 📁 Mundo 2 - Estruturas de Controle
 ### Anotações Relevantes
-* 
+* Aula 12 - Codições em Python, parte 02 (Condições Aninhadas) [Em desenvolvimento]
 
 
 ---
@@ -58,5 +58,6 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 * Desafio 33 - [Maior e Menor Valores](Mundo_01/Aula_10_Condicoes_Parte1/Desafio_33.py)
 * Desafio 34 - [Aumentos Múltiplos](Mundo_01/Aula_10_Condicoes_Parte1/Desafio_34.py)
 * Desafio 35 - [Analisando Triângulos v.1.0](Mundo_01/Aula_10_Condicoes_Parte1/Desafio_35.py)
+* Desafio 36 - [Aprovando Empréstimo](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_36.py)
 
 
