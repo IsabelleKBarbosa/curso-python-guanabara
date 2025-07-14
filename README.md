@@ -14,7 +14,7 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 * [Aula 06 e 07 - Entrada, Saída e Operadores Aritméticos](Mundo_01/Aulas_06_e_07_Entrada_Saida_Operadores/Anotações_Aulas_06_07.md)
 * [Aula 08 - Utilizando Módulos](Mundo_01/Aula_08_Utilizando_Modulos/Anotacoes_Aula_08.md)
 * [Aula 09 - Manipulando Texto e Cadeia de Texto](Mundo_01/Aula_09_Manipulando_Texto/Anotacoes_Aula_09.md) 
-* [Aula 10 - Condições em Python, parte 01](Mundo_01/Aula_10_Condicoes_Parte1/Anotacoes_Aula_10.md)
+* [Aula 10 - Condições em Python, parte 01 (Condição Simples e Composta)](Mundo_01/Aula_10_Condicoes_Parte1/Anotacoes_Aula_10.md)
 
 ## 📁 Mundo 2 - Estruturas de Controle
 ### Anotações Relevantes
