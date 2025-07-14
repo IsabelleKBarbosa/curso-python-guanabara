@@ -20,10 +20,11 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 ### Anotações Relevantes
 * Aula 12 - Codições em Python, parte 02 (Condições Aninhadas) [Em desenvolvimento]
 
-
 ---
 
-### Lista de Exercícios Resolvidos
+# Lista de Exercícios Resolvidos
+
+> ## Mundo 01
 * Desafio 01 e 02 - [Respondendo ao Usuário](Mundo_01/Aulas_01_a_05_Primeiros_Passos/Desafio_01_02.py)
 * Desafio 03 - [Somando dois números](Mundo_01/Aulas_06_e_07_Entrada_Saida_Operadores/Desafio_03.py)
 * Desafio 04 - [Dissecando uma Variável](Mundo_01/Aulas_06_e_07_Entrada_Saida_Operadores/Desafio_04.py)
@@ -58,6 +59,8 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 * Desafio 33 - [Maior e Menor Valores](Mundo_01/Aula_10_Condicoes_Parte1/Desafio_33.py)
 * Desafio 34 - [Aumentos Múltiplos](Mundo_01/Aula_10_Condicoes_Parte1/Desafio_34.py)
 * Desafio 35 - [Analisando Triângulos v.1.0](Mundo_01/Aula_10_Condicoes_Parte1/Desafio_35.py)
+
+> ## Mundo 02
 * Desafio 36 - [Aprovando Empréstimo](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_36.py)
 
 
