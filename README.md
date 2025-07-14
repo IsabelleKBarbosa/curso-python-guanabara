@@ -17,8 +17,12 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 * [Aula 10 - Condições em Python, parte 01 (Condição Simples e Composta)](Mundo_01/Aula_10_Condicoes_Parte1/Anotacoes_Aula_10.md)
 
 ## 📁 Mundo 2 - Estruturas de Controle
+
 ### Anotações Relevantes
+
 * Aula 12 - Codições em Python, parte 02 (Condições Aninhadas) [Em desenvolvimento]
+
+<br>
 
 ---
 
