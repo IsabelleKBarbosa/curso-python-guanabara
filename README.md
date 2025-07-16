@@ -72,6 +72,6 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 * Desafio 40 - [Média Escolar - CLássico](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_40.py)
 * Desafio 41 - [Classifiando Atletas](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_41.py)
 * Desafio 42 - [Analisando Triângulos v.2.0](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_42.py)
-* Desafio 43 - [índice de Massa Corporal](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_43.py)
+* Desafio 43 - [Índice de Massa Corporal](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_43.py)
 
 
