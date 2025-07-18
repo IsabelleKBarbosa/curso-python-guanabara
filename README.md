@@ -73,5 +73,7 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 * Desafio 41 - [Classifiando Atletas](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_41.py)
 * Desafio 42 - [Analisando Triângulos v.2.0](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_42.py)
 * Desafio 43 - [Índice de Massa Corporal](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_43.py)
+* Desafio 44 - [Gerenciador de Pagamentos](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_44.py)
+* Desafio 45 - [GAME: Pedra, Papel e Tesoura](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_45.py)
 
 
