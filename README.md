@@ -76,5 +76,7 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 * Desafio 43 - [Índice de Massa Corporal](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_43.py)
 * Desafio 44 - [Gerenciador de Pagamentos](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_44.py)
 * Desafio 45 - [GAME: Pedra, Papel e Tesoura](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_45.py)
+* Desafio 46 - [Contagem Regressiva](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Desafio_46.py)
+* Desafio 47 - [Contagem de Pares](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Desafio_47.py)
 
 
