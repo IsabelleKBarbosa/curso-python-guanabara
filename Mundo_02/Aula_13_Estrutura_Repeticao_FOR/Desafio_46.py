@@ -1,0 +1,28 @@
+#Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
+from time import sleep
+print ('_____________________________________________________________________')
+print ()
+print ('## ATIVIDADE PRÁTICA - 46 ##')
+print ()
+print ('\033[1;35mIT IS TIME!\033[m')
+for f in range (10,-1, -1):
+    print (f'{f}...')
+    sleep(1)
+print("        *")
+print("       * *")
+print("      *   *")
+print("     * *** *")
+print("    *  ***  *")
+print("   *   ***   *")
+print("    *  ***  *")
+print("     * *** *")
+print("      *   *")
+print("       * *")
+print("        *")
+print("       ***")
+print("       ***")
+print("     *  *  *")
+print("    *   *   *")
+print("       *\n")
+
+print("✨ Fim do show! ✨")
