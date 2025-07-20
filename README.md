@@ -80,6 +80,11 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 * Desafio 47 - [Contagem de Pares](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Desafio_47.py)
 * Desafio 48 - [Soma ímpares múltiplos de três](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Desafio_48.py)
 * Desafio 49 - [Tabuada v.2.0](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Desafio_49.py)
-* Desafio 50 - [Soma dos paes](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Desafio_50.py)
+* Desafio 50 - [Soma dos Pares](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Desafio_50.py)
+* Desafio 51 - [Progressão Aritmética](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Desafio_51.py)
+* Desafio 52 - [Números Primos](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Desafio_52.py)
+* Desafio 53 - [Detector de Palíndromo](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Desafio_53.py)
+* Desafio 54 - [Grupo da Maioridade](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Desafio_54.py)
+* Desafio 55 - [Maior e Menor da Sequência](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Desafio_55.py)
 
 
