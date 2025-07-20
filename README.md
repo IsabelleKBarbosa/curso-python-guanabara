@@ -78,5 +78,8 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 * Desafio 45 - [GAME: Pedra, Papel e Tesoura](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_45.py)
 * Desafio 46 - [Contagem Regressiva](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Desafio_46.py)
 * Desafio 47 - [Contagem de Pares](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Desafio_47.py)
+* Desafio 48 - [Soma ímpares múltiplos de três](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Desafio_48.py)
+* Desafio 49 - [Tabuada v.2.0](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Desafio_49.py)
+* Desafio 50 - [Soma dos paes](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Desafio_50.py)
 
 
