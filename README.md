@@ -88,5 +88,5 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 * Desafio 54 - [Grupo da Maioridade](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Desafio_54.py)
 * Desafio 55 - [Maior e Menor da Sequência](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Desafio_55.py)
 * Desafio 56 - [Analisador Completo](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Desafio_56.py)
-
+* Desafio 57 - [Validação de Dados](Mundo_02/Aula_14_Estrutura_Repeticao_WHILE/Desafio_57.py)
 
