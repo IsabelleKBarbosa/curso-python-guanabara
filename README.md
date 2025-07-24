@@ -92,4 +92,4 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 * Desafio 58 - [Jogo da Adivinhação v.2.0](Mundo_02/Aula_14_Estrutura_Repeticao_WHILE/Desafio_58.py)
 * Desafio 59 - [Criando um Menu de Opções](Mundo_02/Aula_14_Estrutura_Repeticao_WHILE/Desafio_59.py)
 * Desafio 60 - [Cálculo do Fatorial](Mundo_02/Aula_14_Estrutura_Repeticao_WHILE/Desafio_60.py)
-
+* Desafio 61 - [Progressão Aritmética v.2.0](Mundo_02/Aula_14_Estrutura_Repeticao_WHILE/Desafio_61.py)
