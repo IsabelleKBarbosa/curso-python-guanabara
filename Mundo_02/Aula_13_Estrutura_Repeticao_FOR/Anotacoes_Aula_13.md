@@ -41,6 +41,7 @@ for c in range(0, n+1):
 
 ### * Observação:
   💬 O `for` também funciona com strings, listas e outros tipos de sequência, não só com `range()`.
+  
 **Exemplo:**
 ```python
 nome = 'Python'
