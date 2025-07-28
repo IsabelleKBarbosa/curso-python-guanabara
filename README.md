@@ -21,7 +21,7 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 ### Anotações Relevantes
 
 * [Aula 12 - Codições em Python, parte 02 (Condições Aninhadas)](Mundo_02/Aula_12_Condicoes_Parte2/Anotacoes_Aula_12.md)
-* Aula 13 - Estrutuas de Repetição: FOR (Em desenvolvimento)
+* [Aula 13 - Estrutuas de Repetição: FOR](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Anotacoes_Aula_13.md)
 * Aula 14 - Estrutura de Repetição: WHILE (Em desenvolvimento)
 
 <br>
