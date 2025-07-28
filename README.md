@@ -94,3 +94,6 @@ O curso está disponível gratuitamente na [Plataforma de Ensino Curso em Vídeo
 * Desafio 60 - [Cálculo do Fatorial](Mundo_02/Aula_14_Estrutura_Repeticao_WHILE/Desafio_60.py)
 * Desafio 61 - [Progressão Aritmética v.2.0](Mundo_02/Aula_14_Estrutura_Repeticao_WHILE/Desafio_61.py)
 * Desafio 62 - [Super Progressão Aritmética v.3.0](Mundo_02/Aula_14_Estrutura_Repeticao_WHILE/Desafio_62.py)
+* Desafio 63 - [Sequência de Fibonacci v.1.0](Mundo_02/Aula_14_Estrutura_Repeticao_WHILE/Desafio_63.py)
+* Desafio 64 - [Tratando Vários Valores v.1.0](Mundo_02/Aula_14_Estrutura_Repeticao_WHILE/Desafio_64.py)
+* Desafio 65 - [Média, Maior e Menor Valores](Mundo_02/Aula_14_Estrutura_Repeticao_WHILE/Desafio_65.py)
