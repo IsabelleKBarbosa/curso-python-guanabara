@@ -23,6 +23,7 @@ O curso está disponível gratuitamente na Plataforma de Ensino [Curso em Vídeo
 * [Aula 12 - Codições em Python, parte 02 (Condições Aninhadas)](Mundo_02/Aula_12_Condicoes_Parte2/Anotacoes_Aula_12.md)
 * [Aula 13 - Estrutuas de Repetição: FOR](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Anotacoes_Aula_13.md)
 * [Aula 14 - Estrutura de Repetição: WHILE](Mundo_02/Aula_14_Estrutura_Repeticao_WHILE/Anotacoes_Aula_14.md)
+* Aula 15 - Interrompendo Repetições While: BREAK (Em desenvolvimento)
 
 <br>
 
@@ -97,3 +98,4 @@ O curso está disponível gratuitamente na Plataforma de Ensino [Curso em Vídeo
 * Desafio 63 - [Sequência de Fibonacci v.1.0](Mundo_02/Aula_14_Estrutura_Repeticao_WHILE/Desafio_63.py)
 * Desafio 64 - [Tratando Vários Valores v.1.0](Mundo_02/Aula_14_Estrutura_Repeticao_WHILE/Desafio_64.py)
 * Desafio 65 - [Média, Maior e Menor Valores](Mundo_02/Aula_14_Estrutura_Repeticao_WHILE/Desafio_65.py)
+* Desafio 66 - [Vários Números com Flag](Mundo_02/Aula_15_Interrompendo_Repeticao_BREAK/Desafio_66.py)
