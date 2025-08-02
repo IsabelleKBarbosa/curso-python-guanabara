@@ -100,3 +100,5 @@ O curso está disponível gratuitamente na Plataforma de Ensino [Curso em Vídeo
 * Desafio 65 - [Média, Maior e Menor Valores](Mundo_02/Aula_14_Estrutura_Repeticao_WHILE/Desafio_65.py)
 * Desafio 66 - [Vários Números com Flag](Mundo_02/Aula_15_Interrompendo_Repeticao_BREAK/Desafio_66.py)
 * Desafio 67 - [Tabuada v.3.0](Mundo_02/Aula_15_Interrompendo_Repeticao_BREAK/Desafio_67.py)
+* Desafio 68 - [Jogo do Par ou Ímpar](Mundo_02/Aula_15_Interrompendo_Repeticao_BREAK/Desafio_68.py)
+* Desafio 69 - [Análise de Dados do Grupo](Mundo_02/Aula_15_Interrompendo_Repeticao_BREAK/Desafio_69.py)
