@@ -23,7 +23,13 @@ O curso está disponível gratuitamente na Plataforma de Ensino [Curso em Vídeo
 * [Aula 12 - Codições em Python, parte 02 (Condições Aninhadas)](Mundo_02/Aula_12_Condicoes_Parte2/Anotacoes_Aula_12.md)
 * [Aula 13 - Estrutuas de Repetição: FOR](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Anotacoes_Aula_13.md)
 * [Aula 14 - Estrutura de Repetição: WHILE](Mundo_02/Aula_14_Estrutura_Repeticao_WHILE/Anotacoes_Aula_14.md)
-* Aula 15 - Interrompendo Repetições While: BREAK (Em desenvolvimento)
+* [Aula 15 - Interrompendo Repetições While: BREAK](Mundo_02/Aula_15_Interrompendo_Repeticao_BREAK/Anotacoes_Aula_15.md)
+
+## 📁 Mundo 3 - Estruturas de Dados 
+
+### Anotações Relevantes
+
+* Em desenvolvimento
 
 <br>
 
@@ -104,3 +110,6 @@ O curso está disponível gratuitamente na Plataforma de Ensino [Curso em Vídeo
 * Desafio 69 - [Análise de Dados do Grupo](Mundo_02/Aula_15_Interrompendo_Repeticao_BREAK/Desafio_69.py)
 * Desafio 70 - [Estatística em Produtos](Mundo_02/Aula_15_Interrompendo_Repeticao_BREAK/Desafio_70.py)
 * Desafio 71 - [Simulador de Caixa Eletrônico](Mundo_02/Aula_15_Interrompendo_Repeticao_BREAK/Desafio_71.py)
+
+> ## Mundo 03
+* Em desenvolvimento
