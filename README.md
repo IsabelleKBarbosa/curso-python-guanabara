@@ -69,7 +69,7 @@ O curso está disponível gratuitamente na Plataforma de Ensino [Curso em Vídeo
 
 > ## Mundo 02
 * Desafio 36 - [Aprovando Empréstimo](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_36.py)
-* Desafio 37 - [Conversos de Bases](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_37.py)
+* Desafio 37 - [Conversor de Bases](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_37.py)
 * Desafio 38 - [Comparando Números](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_38.py)
 * Desafio 39 - [Alistamento Militar](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_39.py)
 * Desafio 40 - [Média Escolar - CLássico](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_40.py)
