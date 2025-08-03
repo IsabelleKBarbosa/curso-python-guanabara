@@ -103,3 +103,4 @@ O curso está disponível gratuitamente na Plataforma de Ensino [Curso em Vídeo
 * Desafio 68 - [Jogo do Par ou Ímpar](Mundo_02/Aula_15_Interrompendo_Repeticao_BREAK/Desafio_68.py)
 * Desafio 69 - [Análise de Dados do Grupo](Mundo_02/Aula_15_Interrompendo_Repeticao_BREAK/Desafio_69.py)
 * Desafio 70 - [Estatística em Produtos](Mundo_02/Aula_15_Interrompendo_Repeticao_BREAK/Desafio_70.py)
+* Desafio 71 - [Simulador de Caixa Eletrônico](Mundo_02/Aula_15_Interrompendo_Repeticao_BREAK/Desafio_71.py)
