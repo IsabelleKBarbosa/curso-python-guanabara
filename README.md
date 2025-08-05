@@ -21,8 +21,8 @@ Repositório dedicado ao registro da minha evolução, por meio de exercícios p
 
 ### Anotações Relevantes
 
-* [Aula 12 - Codições em Python, parte 02 (Condições Aninhadas)](Mundo_02/Aula_12_Condicoes_Parte2/Anotacoes_Aula_12.md)
-* [Aula 13 - Estrutuas de Repetição: FOR](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Anotacoes_Aula_13.md)
+* [Aula 12 - Condições em Python, parte 02 (Condições Aninhadas)](Mundo_02/Aula_12_Condicoes_Parte2/Anotacoes_Aula_12.md)
+* [Aula 13 - Estruturas de Repetição: FOR](Mundo_02/Aula_13_Estrutura_Repeticao_FOR/Anotacoes_Aula_13.md)
 * [Aula 14 - Estrutura de Repetição: WHILE](Mundo_02/Aula_14_Estrutura_Repeticao_WHILE/Anotacoes_Aula_14.md)
 * [Aula 15 - Interrompendo Repetições While: BREAK](Mundo_02/Aula_15_Interrompendo_Repeticao_BREAK/Anotacoes_Aula_15.md)
 
@@ -80,7 +80,7 @@ Repositório dedicado ao registro da minha evolução, por meio de exercícios p
 * Desafio 38 - [Comparando Números](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_38.py)
 * Desafio 39 - [Alistamento Militar](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_39.py)
 * Desafio 40 - [Média Escolar - CLássico](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_40.py)
-* Desafio 41 - [Classifiando Atletas](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_41.py)
+* Desafio 41 - [Classificando Atletas](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_41.py)
 * Desafio 42 - [Analisando Triângulos v.2.0](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_42.py)
 * Desafio 43 - [Índice de Massa Corporal](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_43.py)
 * Desafio 44 - [Gerenciador de Pagamentos](Mundo_02/Aula_12_Condicoes_Parte2/Desafio_44.py)
