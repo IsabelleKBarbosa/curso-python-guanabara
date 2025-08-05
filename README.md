@@ -1,10 +1,11 @@
 # Curso de Python 3 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" min-width="50px" max-width="50px" width="50px" align="center">
 
-Repositório dedicado ao registro da minha evolução, por meio de exercícios resolvidos e anotações, no curso de Python lecionado pelo Prof. **Gustavo Guanabara**.<br>  
-O curso está disponível gratuitamente na Plataforma de Ensino [Curso em Vídeo](https://www.cursoemvideo.com/cursos/) e também através do [YouTube - Curso em Video](https://www.youtube.com/c/CursoemV%C3%ADdeo).
+Repositório dedicado ao registro da minha evolução, por meio de exercícios práticos resolvidos, anotações pessoais e códigos comentados produzidos durante meus estudos no curso de **Python 3** lecionado pelo Prof. **Gustavo Guanabara**.<br> 
 
+📌 O curso está disponível gratuitamente na Plataforma de Ensino [Curso em Vídeo](https://www.cursoemvideo.com/cursos/) e também através do [YouTube - Curso em Video](https://www.youtube.com/c/CursoemV%C3%ADdeo).
+
+> IDE: **PyCharm / VS Code**
 ---
-
 ## 📁 Mundo 1 - Fundamentos
 
 ### Anotações Relevantes
@@ -113,3 +114,11 @@ O curso está disponível gratuitamente na Plataforma de Ensino [Curso em Vídeo
 
 > ## Mundo 03
 * Em desenvolvimento
+
+
+
+
+## 📄 Licença
+
+Este projeto está licenciado sob os termos da [MIT License](./LICENSE).  
+Todo o conteúdo original do curso pertence ao autor. Este projeto tem fins **educacionais e de prática pessoal**
