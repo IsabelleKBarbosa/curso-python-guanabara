@@ -121,4 +121,5 @@ Repositório dedicado ao registro da minha evolução, por meio de exercícios p
 ## 📄 Licença
 
 Este projeto está licenciado sob os termos da [MIT License](./LICENSE).  
-Todo o conteúdo original do curso pertence ao autor. Este projeto tem fins **educacionais e de prática pessoal**
+Todo o conteúdo original do curso pertence ao autor.<br>
+Este projeto tem fins **educacionais e de prática pessoal**.
