@@ -30,7 +30,7 @@ Repositório dedicado ao registro da minha evolução, por meio de exercícios p
 
 ### Anotações Relevantes
 
-* Em desenvolvimento
+* [Aula 16 - Tuplas] (Em desenvolvimento)
 
 <br>
 
@@ -113,7 +113,7 @@ Repositório dedicado ao registro da minha evolução, por meio de exercícios p
 * Desafio 71 - [Simulador de Caixa Eletrônico](Mundo_02/Aula_15_Interrompendo_Repeticao_BREAK/Desafio_71.py)
 
 > ## Mundo 03
-* Em desenvolvimento
+* Desafio 72 - [Número por Extenso](Mundo_03/Aula_16_Tuplas/Desafio_72.py)
 
 
 
