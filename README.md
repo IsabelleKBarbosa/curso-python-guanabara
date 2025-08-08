@@ -4,7 +4,7 @@ Repositório dedicado ao registro da minha evolução, por meio de exercícios p
 
 📌 O curso está disponível gratuitamente na Plataforma de Ensino [Curso em Vídeo](https://www.cursoemvideo.com/cursos/) e também através do canal oficial [YouTube - Curso em Video](https://www.youtube.com/c/CursoemV%C3%ADdeo).
 
-> IDE: **PyCharm / VS Code**
+> IDE: **PyCharm Community**
 ---
 ## 📁 Mundo 1 - Fundamentos
 
