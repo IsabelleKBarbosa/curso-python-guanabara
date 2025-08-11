@@ -117,7 +117,8 @@ Repositório dedicado ao registro da minha evolução, por meio de exercícios p
 * Desafio 73 - [Tuplas com Times de Futebol](Mundo_03/Aula_16_Tuplas/Desafio_73.py)
 * Desafio 74 - [Maior e Menor Valor em Tupla](Mundo_03/Aula_16_Tuplas/Desafio_74.py)
 * Desafio 75 - [Análise de Dados em uma Tupla](Mundo_03/Aula_16_Tuplas/Desafio_75.py)
-* Desafio 76 - [Lista de Preços com Tuplas](Mundo_03/Aula_16_Tuplas/Desafio_76.py)
+* Desafio 76 - [Lista de Preços com Tupla](Mundo_03/Aula_16_Tuplas/Desafio_76.py)
+* Desafio 77 - [Contando Vogais em Tupla](Mundo_03/Aula_16_Tuplas/Desafio_77.py)
 
 
 
