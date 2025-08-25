@@ -120,6 +120,8 @@ Repositório dedicado ao registro da minha evolução, por meio de exercícios p
 * Desafio 75 - [Análise de Dados em uma Tupla](Mundo_03/Aula_16_Tuplas/Desafio_75.py)
 * Desafio 76 - [Lista de Preços com Tupla](Mundo_03/Aula_16_Tuplas/Desafio_76.py)
 * Desafio 77 - [Contando Vogais em Tupla](Mundo_03/Aula_16_Tuplas/Desafio_77.py)
+* Desafio 78 - [Maior e Menor Valores na Lista](Mundo_03/Aula_17_Listas_Parte1/Desafio_78.py)
+* Desafio 79 - [Valores únicos em uma Lista](Mundo_03/Aula_17_Listas_Parte1/Desafio_79.py)
 
 
 
