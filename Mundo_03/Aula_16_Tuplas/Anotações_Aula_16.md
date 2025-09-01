@@ -13,7 +13,7 @@
 
 ---
 
-## Variáveis Compostas: Tuplas
+## 1. Variáveis Compostas: Tuplas
 Características principais
 - Uma **tupla** é uma **coleção ordenada de valores**.
 - É representada por **parênteses `()`**.
