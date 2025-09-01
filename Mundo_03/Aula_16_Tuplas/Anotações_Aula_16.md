@@ -18,7 +18,7 @@ Características principais
 - Uma **tupla** é uma **coleção ordenada de valores**.
 - É representada por **parênteses `()`**.
 - É **imutável**: elementos **não podem ser alterados, adicionados ou removidos** após a criação.
-- Pode armazenar **dados de tipos diferentes** (strings, números, etc.).
+- Pode armazenar **dados de tipos diferentes** *(strings, números, etc.)*.
 - Permite **acesso por índice** e **fatiamento**, assim como as strings.
 - Pode ser **percorrida com laços de repetição**, como o `for`.
 
