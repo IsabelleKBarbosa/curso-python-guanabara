@@ -30,7 +30,7 @@ Repositório dedicado ao registro da minha evolução, por meio de exercícios p
 
 ### Anotações Relevantes
 
-* [Aula 16 - Tuplas] (Em desenvolvimento)
+* [Aula 16 - Tuplas](Mundo_03/Aula_16_Tuplas/Anotações_Aula_16.md)
 * [Aula 17 - Listas] (Em desenvolvimento)
 
 <br>
